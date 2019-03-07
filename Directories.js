@@ -147,24 +147,3 @@ const files = {
 
 displayDir(files);
 
-// const displayDirectory = function (id) {
-
-//     let currentNode = id;
-
-//     while (currentNode) {
-//         if(currentNode.id === id)
-//         return currentNode;
-//         currentNode = currentNode.next;
-//     }
-//     return null;
-// }
-
-// const totalSize (id) {
-//     let totalSize = 0;
-//     for (let i = 0; i<list.length; i++) {
-//         if (!getNodes(list[i].id.isDirectory) {
-//             totalSize += getNodes[i].fileSize.value;
-//         }
-//     }
-//     return totalSize;
-// }
